@@ -4,19 +4,21 @@ Welcome to my GitHub! I'm a full-stack developer with a strong foundation in Pyt
 
 ## About Me
 
-- **Programming Languages**: Python 🐍, Dart for Flutter 📱
-- **Frameworks/Technologies**: Flask, Django, React, Flutter
+- **Programming Languages**: Python 🐍, Django as a Python frameowrk, Dart for Flutter 📱
+- **Frameworks/Technologies**: Html, Css, Js, Django, Flutter
 - **Interests**: Developing intuitive and dynamic web and mobile applications
 - **Hobbies**: Exploring new technologies, contributing to open source, and continual learning
 
 ## Current Projects
 
-🔗 [Project Name] - A description of a recent project (e.g., a Python-based web app or a cross-platform mobile app using Flutter).
+🔗 [meroshringar.com](http://meroshringar.com) - A comprehensive web application designed for beauty enthusiasts. This platform allows customers to explore various cosmetic products, book appointments for beauty services, and        learn skills such as haircuts, facials, and more. Built with Python, it combines functionality with a user-friendly interface to enhance the beauty shopping and learning experience.
+
 
 ## Connect with Me
 
 Feel free to reach out for collaborations or just a chat:
-- 📫 How to reach me: [your-email@gmail.com](mailto:your-email@gmail.com)
+- 📫 How to reach me: [anishgc.2001@gmail.co](mailto:anishgc.2001@gmail.com)
+- 📫 How to reach me: [anishgc.2001@gmail.co](mailto:anishgharti10@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - 🐦 [Twitter](https://twitter.com/yourusername)
 
