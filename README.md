@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a full-stack developer with a strong foundation in Pyt
 
 ## Current Projects
 
-🔗 [meroshringar.com](http://meroshringar.com) - A comprehensive web application designed for beauty enthusiasts. This platform allows customers to explore various cosmetic products, book appointments for beauty services, and        learn skills such as haircuts, facials, and more. Built with Python, it combines functionality with a user-friendly interface to enhance the beauty shopping and learning experience.
+🔗 [meroshringar.com](https://www.meroshringar.com) - A comprehensive web application designed for beauty enthusiasts. This platform allows customers to explore various cosmetic products, book appointments for beauty services, and        learn skills such as haircuts, facials, and more. Built with Python, it combines functionality with a user-friendly interface to enhance the beauty shopping and learning experience.
 
 
 ## Connect with Me
