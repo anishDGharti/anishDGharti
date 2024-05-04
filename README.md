@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a full-stack developer with a strong foundation in Pyt
 - **Programming Languages**: Python 🐍, Django as a Python frameowrk, Dart for Flutter 📱
 - **Frameworks/Technologies**: Html, Css, Js, Django, Flutter
 - **Interests**: Developing intuitive and dynamic web and mobile applications
-- **Hobbies**: Exploring new technologies, contributing to open source, and continual learning
+- **Hobbies**: Exploring new technologies, contributing to open source, continual learning, playing tennis and football.
 
 ## Current Projects
 
