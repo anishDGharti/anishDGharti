@@ -17,8 +17,8 @@ Welcome to my GitHub! I'm a full-stack developer with a strong foundation in Pyt
 ## Connect with Me
 
 Feel free to reach out for collaborations or just a chat:
-- 📫 How to reach me: [anishgc.2001@gmail.co](mailto:anishgc.2001@gmail.com)
-- 📫 How to reach me: [anishgc.2001@gmail.co](mailto:anishgharti10@gmail.com)
+- 📫 How to reach me: [anishgc.2001@gmail.com](mailto:anishgc.2001@gmail.com)
+- 📫 How to reach me: [anishgc.2001@gmail.com](mailto:anishgharti10@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - 🐦 [Twitter](https://twitter.com/yourusername)
 
