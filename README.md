@@ -26,4 +26,4 @@ Feel free to reach out for collaborations or just a chat:
 
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish-gharti&show_icons=true&theme=radical)
 
-Thank you for visiting my profile. Let's connect and build something amazing together!
+Thank you for visiting my profile. Let's connect and build something amazing together!See ya
