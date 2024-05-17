@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anish Gharti (Anish GC)
+# 👋 Hi, I'm Anish Gharti (Anish D GC)
 
 Welcome to my GitHub! I'm a full-stack developer with a strong foundation in Python, currently diving deep into the intricacies of web and mobile application development. With a passion for both backend and frontend technologies, I craft seamless, scalable solutions that stand the test of time.
 
